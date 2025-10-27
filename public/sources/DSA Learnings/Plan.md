@@ -29,15 +29,15 @@ My goal is to reach **intermediate level** by **December 31, 2025**.
 
 ## 🗓️ Weekly Focus
 
-|Week|Topics|Focus|
-|---|---|---|
-|1–2|Arrays & Strings|Basic logic and syntax|
-|3|Stack & Queue|Practice order logic|
-|4|Recursion|Learn to think recursively|
-|5|Trees|Understand tree traversal|
-|6|Graphs|Learn BFS/DFS|
-|7|Dynamic Programming|Optimize problems|
-|8–9|Review|Practice and revise all topics|
+| Week | Topics              | Focus                          |
+| ---- | ------------------- | ------------------------------ |
+| 1–2  | Arrays & Strings    | Basic logic and syntax         |
+| 3    | Stack & Queue       | Practice order logic           |
+| 4    | Recursion           | Learn to think recursively     |
+| 5    | Trees               | Understand tree traversal      |
+| 6    | Graphs              | Learn BFS/DFS                  |
+| 7    | Dynamic Programming | Optimize problems              |
+| 8–9  | Review              | Practice and revise all topics |
 
 ---
 
